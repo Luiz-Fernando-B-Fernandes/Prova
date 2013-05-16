@@ -35,7 +35,7 @@ Hello!  The time is now
 
 <script>	
 		$(document).ready(function () {
-			  $("p").text( ${nova.getQuestoes()});
+			  $("p").text("bada bibi da bum");
 			});
 </script>
 </html>
